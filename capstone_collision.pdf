@@ -30,7 +30,7 @@
         {
             "cell_type": "markdown",
             "metadata": {},
-            "source": "The Data provided by Seattle Police Department  and  Traffic Records department from 2004 to Present, in total there are 37 attribute (independent variables ) , The dependent variable (SEVERITYCODE) contains numbers of the correspond to different level of severity caused by accident from 0 to 4 , are as follows:\n -0: Little to no Probability (Clear Condition)\n -1: very low probability (Chance or property damage)\n -2: low probability (Chance of injury)\n -3: Mid probability (Chance of serious injury)\n -4: High probability (Chance of fatality)\nSome attribute have missing data, have numerical and categorical types of data need for preprocessing before any future processing.\n"
+            "source": "The Data provided by Seattle Police Department  and  Traffic Records department from 2004 to Present, in total there are 37 attribute (independent variables ) , The dependent variable (SEVERITYCODE) contains numbers of the correspond to different level of severity caused by accident from 0 to 4 , are as follows:\\\n 0: Little to no Probability (Clear Condition)\\\n 1: very low probability (Chance or property damage)\\\n 2: low probability (Chance of injury)\\\n 3: Mid probability (Chance of serious injury)\\\n 4: High probability (Chance of fatality)\\\nSome attribute have missing data, have numerical and categorical types of data need for preprocessing before any future processing.\n"
         },
         {
             "cell_type": "markdown",
